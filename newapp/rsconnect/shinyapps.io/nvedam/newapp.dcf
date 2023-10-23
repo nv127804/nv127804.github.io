@@ -1,0 +1,12 @@
+name: newapp
+title: newapp
+username: nvedam
+account: nvedam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10278955
+bundleId: 7839446
+url: https://nvedam.shinyapps.io/newapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
